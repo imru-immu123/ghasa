@@ -1,0 +1,4 @@
+/root
+anaconda-ks.cfg
+log.txt
+Tue Jul  9 13:29:52 IST 2019
